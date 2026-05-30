@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheealculate",
+        "uuid": 2669695,
+        "checksum": "oivm77"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
